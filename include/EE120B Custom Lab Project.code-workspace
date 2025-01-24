@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "EE120B Custom Lab Project",
+			"path": ".."
+		},
+		{
+			"name": "Minesweeper PROJ 120124",
+			"path": "../../Minesweeper PROJ 120124"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"queue": "cpp",
+			"vector": "cpp"
+		}
+	}
+}
